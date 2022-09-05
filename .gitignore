@@ -53,6 +53,8 @@ typings/
 # Optional eslint cache
 .eslintcache
 
+.prettierrc
+
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
@@ -102,3 +104,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+build
