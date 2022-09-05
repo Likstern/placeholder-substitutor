@@ -4,7 +4,7 @@ interface IOptions {
   escape?: string;
 }
 
-export default function substitute(
+export = function substitute(
   str: string,
   placeholders: any,
   options?: IOptions
