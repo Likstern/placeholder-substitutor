@@ -4,6 +4,7 @@
   "description": "Substitution placeholders in string for Node.js",
   "main": "build/index.js",
   "types": "build/index.d.ts",
+  "files": ["build", "LICENSE", "README.md"],
   "scripts": {
     "build": "tsc",
     "test": "ts-node node_modules/jasmine/bin/jasmine"
